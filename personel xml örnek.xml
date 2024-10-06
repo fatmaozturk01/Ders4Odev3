@@ -1,0 +1,10 @@
+<personel>
+    <ad>Fatma</ad>
+    <soyad>Öztürk</soyad>
+    <tcKimlikNo>12345678901</tcKimlikNo>
+    <pozisyon>Bilgisayar Mühendisi</pozisyon>
+    <maas>11111.50</maas>
+    <dogumTarihi>1993-01-01</dogumTarihi>
+    <calismaBaslangicTarihi>2016-12-01</calismaBaslangicTarihi>
+    <aktif>true</aktif>
+</personel>
